@@ -17,3 +17,4 @@ Core Features
 - Application Checklists and Deadline Tracker
 
 Built as a student innovation project for YIIC Edition 9.
+
